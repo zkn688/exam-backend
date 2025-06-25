@@ -40,7 +40,7 @@ java -jar target/exam-admin-0.0.1-SNAPSHOT.jar
 
 ## 配合前端
 
-本项目需要配合前端项目使用，前端仓库地址：[exam-frontend](https://github.com/your-username/exam-frontend)
+本项目需要配合前端项目使用，前端仓库地址：[exam-frontend](https://github.com/zkn688/exam-frontend)
 
 ## API文档
 
